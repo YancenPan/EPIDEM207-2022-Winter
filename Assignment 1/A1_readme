@@ -1,22 +1,13 @@
-*This file serves as a template for a README.md for a project.*
 
-*Copy-paste below the line and make edits to fit your own project.*
-
----------
-
-## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
+## EPIDEM207_Assignment 1
+Project description: The written assignment will include a clean/labelled dataset, required for the analysis, a data dictionary, a codebook, 
+clean and well-documented SAS code, reproduction of tables and figures from the paper, a DAG and a reflection paper
 
 ## Features
-What makes your project stand out?
+try to reproduce analysis of John 2021.
 
 ## Acknowledgments
 Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
 
-## Anything else that seems useful
+## Include 3 sub-assignments.
 
-
-## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
-
-*E-MAIL/PHONE*
