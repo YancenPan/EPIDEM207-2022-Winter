@@ -10,7 +10,7 @@ Project description: EPIDIM 207-Reproducibility in Epidemiologic _ 2022 Winter. 
 Assignment of Yancen Pan.
 
 ## Acknowledgments
-Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
+Assiged paper: John et al., Alcohol abstinence and mortality in a general population sample of adults in Germany: A cohort study 
 
 ## Anything else that seems useful
 
