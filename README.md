@@ -4,7 +4,7 @@
 ---------
 
 ## Project title
-Project description: EPIDIM 207-Reproducibility in Epidemiologic _ 2022 Winter **what** the project is for assignment submission. **why** 
+Project description: EPIDIM 207-Reproducibility in Epidemiologic _ 2022 Winter. The project is for assignment submission.  
 
 ## Features
 Assignment of Yancen Pan.
