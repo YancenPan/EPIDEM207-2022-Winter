@@ -4,10 +4,10 @@
 ---------
 
 ## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
+Project description: EPIDIM 207-Reproducibility in Epidemiologic _ 2022 Winter **what** the project is for assignment submission. **why** 
 
 ## Features
-What makes your project stand out?
+Assignment of Yancen Pan.
 
 ## Acknowledgments
 Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
@@ -16,6 +16,6 @@ Give proper credit to resources you used in this project. This could be a link t
 
 
 ## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
+* [@YancenPan](https://github.com/YancenPan)
 
 *E-MAIL/PHONE*
